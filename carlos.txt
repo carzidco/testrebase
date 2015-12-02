@@ -1,5 +1,11 @@
 carlos carlos carjose carlos
 
+<<<<<<< HEAD
 carlos carjose carlos carlos
 
 jose jose jose jose
+=======
+cordoba cordoba cordoba
+
+carlos carlos carlos carlos
+>>>>>>> carlos2
